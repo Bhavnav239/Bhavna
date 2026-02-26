@@ -53,24 +53,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Dynamic SharePoint Detail Page
-- Custom query-string based filtering
-- Role-based access control
-- Modern responsive UI
-
-### 🔹 Power Automate Email Routing System
-- Automated email classification
-- SharePoint integration
-- Domain-based routing logic
-
-### 🔹 AI Chatbot Website Integration
-- Integrated AI assistant in HTML website
-- Website data crawling integration
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -84,7 +66,7 @@
 
 - 💼 LinkedIn: (Add your link)
 - 📧 Email: bhavnav239@gmail.com
-- 🌐 Portfolio: https://bhavnav239.github.io
+- 🌐 Portfolio: https://bhavnav239.github.io/Bhavna/
 
 ---
 
