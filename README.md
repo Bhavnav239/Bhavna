@@ -83,7 +83,7 @@
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 📧 Email: bhavnav239@gmail.com
 - 🌐 Portfolio: https://bhavnav239.github.io
 
 ---
