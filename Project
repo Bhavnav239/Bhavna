@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bhavna Verma | Senior Frontend Developer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: #0f172a;
+            color: #f1f5f9;
+            line-height: 1.6;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+            background: linear-gradient(135deg, #2563eb, #7c3aed);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 40px;
+        }
+
+        header h3 {
+            margin-top: 10px;
+            font-weight: 400;
+        }
+
+        section {
+            max-width: 1100px;
+            margin: auto;
+            padding: 50px 20px;
+        }
+
+        h2 {
+            border-left: 5px solid #7c3aed;
+            padding-left: 10px;
+            margin-bottom: 25px;
+        }
+
+        .skills img {
+            margin: 8px;
+        }
+
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: #1e293b;
+            padding: 20px;
+            border-radius: 10px;
+            transition: 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #020617;
+        }
+
+        a {
+            color: #38bdf8;
+            text-decoration: none;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+
+.card {
+    background: linear-gradient(145deg, #1e293b, #0f172a);
+    padding: 25px;
+    border-radius: 15px;
+    border: 1px solid #334155;
+    transition: all 0.4s ease;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 35px rgba(124,58,237,0.5);
+}
+
+        
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Hi 👋, I'm Bhavna Verma</h1>
+    <h3>Senior Frontend Developer | UI Architect | 12+ Years Experience</h3>
+</header>
+
+<section>
+    <h2>🚀 Featured Projects</h2>
+
+    <div class="projects">
+
+        <div class="card">
+            <h3>🔷 Xehealth – Angular-Based Healthcare Application</h3>
+            <p><strong>Technologies:</strong> Angular, TypeScript, HTML5, CSS3, Bootstrap</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+                <li>Developed and integrated responsive HTML templates within Angular components.</li>
+                <li>Created new UI content as per business requirements.</li>
+                <li>Implemented Bootstrap-based responsive layouts.</li>
+                <li>Identified and resolved UI bugs and usability issues.</li>
+                <li>Ensured browser compatibility and UI consistency.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h3>🔷 TrueDoc 24x7 – React Healthcare Application</h3>
+            <p><strong>Technologies:</strong> React.js, JavaScript, HTML5, CSS3, Bootstrap</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+                <li>Worked on a production-level healthcare application built in React.</li>
+                <li>Fixed UI bugs and improved responsiveness across devices.</li>
+                <li>Enhanced layout structure and browser compatibility.</li>
+                <li>Maintained reusable and modular component styling.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h3>🔷 World at Work (WAW) – Component-Based Front-End Application</h3>
+            <p><strong>Technologies:</strong> HTML5, CSS3 (Flexbox), Bootstrap</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+                <li>Built reusable UI components using modern CSS (Flexbox).</li>
+                <li>Implemented responsive layouts using Bootstrap and media queries.</li>
+                <li>Improved maintainability through modular CSS practices.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+    <h3>🔷 CareHub – Healthcare Web Application</h3>
+    <p><strong>Technologies:</strong> HTML5, CSS3, Bootstrap</p>
+            <p><strong>Key Features:</strong></p>
+            <ul><li>Developed responsive UI interface for doctors.</li>
+            <li>Created structured layouts and ensured cross-browser compatibility.</li></ul>
+</div>
+
+ <div class="card">
+    <h3>🔷 Accent – Responsive Web Design Project</h3>
+    <p><strong>Technologies:</strong> HTML5, CSS3, Bootstrap</p>
+            <p><strong>Key Features:</strong></p>
+            <ul><li>Converted PSD design into a fully responsive website using Bootstrap.</li>
+            <li>Ensured pixel-perfect UI implementation.</li></ul>
+</div>
+
+         <div class="card">
+    <h3>🔷 Oriel – Static Website Development</h3>
+    <p><strong>Technologies:</strong> HTML5, CSS3</p>
+            <p><strong>Key Features:</strong></p>
+            <ul><li>Converted Photoshop layout into responsive HTML/CSS website.
+</li>
+            <li>Implemented semantic markup and cross-browser compatibility</li></ul>
+</div>
+        
+    </div>
+</section>
+
+    
+<footer>
+    © 2026 Bhavna Verma | Building intuitive UI experiences that drive business value.
+</footer>
+
+</body>
+</html>
